@@ -3,7 +3,7 @@
 
 # PoliceP-2.1
 this is my updated version of Police_main and this has all objects fixed/changed. 
-(There are 3 versions of this ymap so you can choose *COMING SOON*)
+There is now only 1 version of this ymap but update is *COMING SOON* :)
 -----------------------------------------------------------------------------------------------------------------------------
 Install: 
 ---------
